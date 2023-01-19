@@ -33,7 +33,7 @@ Full title should be no longer than 25 symbols If title longer than 25 symbols t
   * pip install -r requirements.txt 
 
   
-## Tets
+## Tests
 This package contains test cases to check the function output with different inputs and expected output
 You can run the test by running the script or by using test runner like pytest python cut_article.py# test-tusk
 
